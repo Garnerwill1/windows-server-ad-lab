@@ -106,12 +106,21 @@ In this lab, I built a Windows Server 2022 domain controller in VMware and confi
 - Basic identity and access administration
 
 ## Screenshots
-Add your screenshots here:
-- OU structure
-- Marvel users
-- DC users
-- Groups
-- Group memberships
+
+### OU Structure
+![OU Structure](01-ou-structure.png)
+
+### Marvel Users
+![Marvel Users](02-marvel-users.png)
+
+### DC Users
+![DC Users](03-dc-users.png)
+
+### Groups
+![Groups](04-groups.png)
+
+### Group Memberships
+![Group Memberships](05-group-memberships.png)
 
 ## Key Takeaway
 This lab helped me practice core system administration tasks in an on-prem Active Directory environment, including domain setup, directory organization, user provisioning, and group-based administration.
